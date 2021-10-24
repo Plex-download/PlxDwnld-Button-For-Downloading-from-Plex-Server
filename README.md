@@ -35,3 +35,9 @@ The Movie or TV Show will begin to download. Then Go back and choose another Mov
 Credit to PipLongRun for creating the script.
 
 If you are unable to get the Bookmark Toolbar to show up using the above method, try doing this. Click on the button with 3 horizontal bars/dots in the top right corner. After clicking this, the 4th or 5th option to choose will be “Bookmarks”. Select that. Then the third option down it will say “Show Bookmarks Bar/Toolbar”. Select that. If it instead says “Hide Bookmarks Toolbar” then that means your bookmarks toolbar is already visible and this step can be skipped.
+
+
+
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
