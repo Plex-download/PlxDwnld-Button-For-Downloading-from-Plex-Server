@@ -5,7 +5,7 @@ A javascript bookmarklet that adds a Download Button to your Web Browser to Down
 Step 1. As a pre-requisite, you need to either have Google Chrome or Firefox installed on your computer.
 
 Step 2. Open Chrome or Firefox and make sure your bookmark toolbar is visible. If its already visible then you can skip this step. If you are on a Windows computer hold down the “CTRL” key on your keyboard, then hold down “Shift” key, and while you continue holding down both of those buttons together just press the “B” key. You will see the bookmarks toolbar appear right underneath the address bar. CTRL + Shift + B
-
+ 
 Step 3. Visit https://sharedriches.com/plex-scripts/piplongrun/
 
 Step 4. Under “How to install”, drag the blue box up into the bookmark toolbar.
