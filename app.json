@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: PHP",
+  "description": "A simple php app",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
+}
