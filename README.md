@@ -38,6 +38,6 @@ If you are unable to get the Bookmark Toolbar to show up using the above method,
 
 
 
-<a href="https://heroku.com/deploy">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Plex-download/Plex-Shared-Library-Downloader">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
