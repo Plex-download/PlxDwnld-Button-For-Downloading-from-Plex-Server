@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: PHP",
-  "description": "A simple php app",
+  "name": "Plex Download Bookmarklet - Javascript",
+  "description": "Plex Download Javascript BookMarklet",
   "repository": "https://github.com/heroku/php-getting-started",
   "addons": []
 }
